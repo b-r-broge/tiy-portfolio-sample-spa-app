@@ -1,0 +1,14 @@
+.navBar {
+  display: flex;
+  justify-content: space-around;
+  margin: 2vh auto;
+  background: pink;
+}
+
+.navBar a {
+  background-color: lavender;
+  color: red;
+  padding: 2vh 5vw;
+  border: 1px solid purple;
+  border-radius: 5px 5px;
+}
